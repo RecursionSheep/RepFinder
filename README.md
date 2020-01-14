@@ -3,10 +3,10 @@ A naive implementation of *RepFinder: Finding Approximately Repeated Scene Eleme
 
 Course project for Media Computation, Tsinghua University, Fall 2019.
 
-[](result/fish_small.jpg)
+![](/result/fish_small.jpg)
 
-[](result/result.png)
+![](/result/result.png)
 
-[](result/flower.png)
+![](/result/flower.png)
 
-[](result/result1.png)
+![](/result/result1.png)
